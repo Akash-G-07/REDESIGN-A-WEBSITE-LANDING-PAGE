@@ -60,4 +60,5 @@ The goal of this project is to redesign an existing website landing page to impr
 
 OUTPUT OF THE TASK :
 
+         AFTER                                                          BEFORE
  ![Image](https://github.com/user-attachments/assets/d792e355-9a74-423b-91df-941e377e89c8)
